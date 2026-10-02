@@ -1,32 +1,35 @@
 # Hey, I'm Akshita 👋
 
-🎓 **Computer Science Engineering Student @ SRM IST**
+ **Computer Science Engineering Student **
 
-🤖 **Aspiring AI Engineer** |  Full-Stack Development |  Software Engineering
+💻 **Full-Stack Development | Software Engineering | Exploring AI**
 
-I enjoy building **AI-powered and full-stack applications** that solve real-world problems.
+I enjoy building **real-world software projects** and experimenting with different areas of computer science — from full-stack applications and backend systems to AI-powered solutions.
 
 ###  What I Build
 
--  AI-powered applications & intelligent systems
--  Full-stack web applications
--  Secure and scalable software
--  Cloud-deployed projects
--  Exploring AI engineering, ML & intelligent agents
+- Full-stack web applications
+- Backend systems & APIs
+- AI-powered applications
+- Secure software & authentication systems
+- Cloud-deployed projects
+- Exploring different areas of software engineering
 
-###  Tech
+### 🛠️ Tech I've Worked With
 
 `Python` `JavaScript` `TypeScript` `React` `Node.js` `FastAPI` `MongoDB` `Git` `GitHub`
 
-###  Featured Projects
+### 📌 Featured Projects
 
-🔹 **RIVORA** — Digital healthcare support platform  
-🔹 **SkillSync** — AI-powered skill & team-building platform  
-🔹 **Horizon** — AI-driven monitoring and automated recovery system
+🔹 **CODEZAP** — AI-driven system monitoring, anomaly detection & automated recovery
 
-###  Currently Learning
+🔹 **RIVORA** — Secure digital healthcare support platform
 
-**AI Engineering • Machine Learning • Linux • Systems • web3
+🔹 **SkillSync** — Full-stack platform for skill matching, team formation & collaboration
+
+### 🌱 Currently Learning
+
+**Data Structures & Algorithms • Operating Systems • Linux • Backend Development • Cloud • AI**
 
 ### 📫 Connect
 
