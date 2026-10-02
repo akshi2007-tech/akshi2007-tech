@@ -1,36 +1,38 @@
-# Hey, I'm Akshita 
+# Hi, I'm Akshita
 
- **Computer Science Engineering Student **
+**Computer Science Engineering Student @ SRM IST**
 
- **Full-Stack Development | Software Engineering | 
+**Software Engineering | Full-Stack Development | Exploring AI**
 
-I enjoy building **real-world software projects** and experimenting with different areas of computer science — from full-stack applications and backend systems to AI-powered solutions.
+I enjoy building real-world software projects and exploring different areas of computer science — from full-stack applications and backend systems to AI-powered solutions.
 
-###  What I Build
+## What I Build
 
 - Full-stack web applications
-- Backend systems & APIs
+- Backend systems and APIs
 - AI-powered applications
-- Secure software & authentication systems
+- Secure software and authentication systems
 - Cloud-deployed projects
-- Exploring different areas of software engineering
 
-### 🛠️ Tech I've Worked With
+## Technologies
 
 `Python` `JavaScript` `TypeScript` `React` `Node.js` `FastAPI` `MongoDB` `Git` `GitHub`
 
-### 📌 Featured Projects
+## Featured Projects
 
-🔹 **CODEZAP** — AI-driven system monitoring, anomaly detection & automated recovery
+**CODEZAP (Horizon)**  
+AI-driven system monitoring, anomaly detection, root-cause analysis, and automated recovery.
 
-🔹 **RIVORA** — Secure digital healthcare support platform
+**RIVORA**  
+Secure digital healthcare support platform with role-based access, care management, and blockchain-backed audit workflows.
 
-🔹 **SkillSync** — Full-stack platform for skill matching, team formation & collaboration
+**SkillSync**  
+Full-stack platform for skill matching, team formation, project collaboration, and learning analytics.
 
-### 🌱 Currently Learning
+## Currently Learning
 
-**Data Structures & Algorithms • Operating Systems • Linux • Backend Development • Cloud • AI**
+**Data Structures & Algorithms • Linux • Operating Systems • Backend Development • Cloud • AI**
 
-### 📫 Connect
+## Connect
 
 [GitHub](https://github.com/akshi2007-tech)
