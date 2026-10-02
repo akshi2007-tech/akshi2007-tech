@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Akshita 👋
 
-<!--
-**akshi2007-tech/akshi2007-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Engineering Student @ SRM IST**
 
-Here are some ideas to get you started:
+🤖 **Aspiring AI Engineer** |  Full-Stack Development |  Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building **AI-powered and full-stack applications** that solve real-world problems.
+
+###  What I Build
+
+-  AI-powered applications & intelligent systems
+-  Full-stack web applications
+-  Secure and scalable software
+-  Cloud-deployed projects
+-  Exploring AI engineering, ML & intelligent agents
+
+###  Tech
+
+`Python` `JavaScript` `TypeScript` `React` `Node.js` `FastAPI` `MongoDB` `Git` `GitHub`
+
+###  Featured Projects
+
+🔹 **RIVORA** — Digital healthcare support platform  
+🔹 **SkillSync** — AI-powered skill & team-building platform  
+🔹 **Horizon** — AI-driven monitoring and automated recovery system
+
+###  Currently Learning
+
+**AI Engineering • Machine Learning • Linux • Systems • web3
+
+### 📫 Connect
+
+[GitHub](https://github.com/akshi2007-tech)
