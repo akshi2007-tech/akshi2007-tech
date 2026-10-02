@@ -2,7 +2,7 @@
 
  **Computer Science Engineering Student **
 
-💻 **Full-Stack Development | Software Engineering | Exploring AI**
+💻 **Full-Stack Development | Software Engineering | 
 
 I enjoy building **real-world software projects** and experimenting with different areas of computer science — from full-stack applications and backend systems to AI-powered solutions.
 
